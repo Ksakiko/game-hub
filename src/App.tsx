@@ -24,4 +24,4 @@ function App() {
 }
 export default App;
 
-// Displaying Platform Icons
+// Displaying Critic Score
